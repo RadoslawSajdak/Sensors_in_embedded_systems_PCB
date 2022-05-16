@@ -358,7 +358,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BACKUP_PROJECT.kicad_pro",
+    "filename": "BACKUP_PROJECT2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -437,16 +437,16 @@
   },
   "sheets": [
     [
-      "9538e4ed-27e6-4c37-b989-9859dc0d49e8",
+      "c70d9ef3-bfeb-47e0-a1e1-9aeba3da7864",
       ""
-    ],
-    [
-      "40dcc27d-1810-4fdd-ba72-8745fb04c433",
-      "Power_sheet"
     ],
     [
       "45b5bf49-8608-4365-bfca-874291d78299",
       "Sensors_sheet"
+    ],
+    [
+      "40dcc27d-1810-4fdd-ba72-8745fb04c433",
+      "Power_sheet"
     ]
   ],
   "text_variables": {}
